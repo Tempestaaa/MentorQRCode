@@ -43,13 +43,14 @@ img {
 }
 
 .qrcode__title {
+  width: 92%;
   font-weight: 700;
   font-size: 1.3rem;
   color: var(--darkblue);
 }
 
 .qrcode__description {
-  width: 95%;
+  width: 85%;
   color: var(--grayishblue);
   font-size: 15px;
 }
